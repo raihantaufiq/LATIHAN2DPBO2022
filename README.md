@@ -3,8 +3,8 @@
 Saya Raihan Taufiqurrahman mengerjakan evaluasi Latihan Praktikum dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 
-### Penjelasan:
-
+### Penjelasan
+Pada program ini terdapat 3 kelas yaitu kelas Memory, Product, dan Hardware. Pada kelas-kelas tersebut dapat diimplementasikan inheritance. Kelas Product memiliki anak yaitu kelas Hardware, hal ini dikarenakan Hardware merupakan jenis objek yang termasuk pada Product, sehingga kelas Hardware sebagai kelas anak memiliki atribut dan metode dari kelas orang tuanya yaitu kelas Product. Kemudian kelas Hardware juga memiliki anak yaitu kelas Memory karena Memory merupakan salah satu jenis Hardware sehingga kelas Memory mewarisi fitur dari kelas Hardware. Dikarenakan kelas Product memiliki anak yaitu kelas Hardware, lalu kelas Hardware juga memiliki anak yaitu kelas Memory, maka terbentuklah multilevel inheritance.
 
 
 ### Screenshoot
