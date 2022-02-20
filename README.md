@@ -2,7 +2,12 @@
 
 Saya Raihan Taufiqurrahman mengerjakan evaluasi Latihan Praktikum dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
-Screenshoot:
+
+#### Penjelasan:
+
+
+
+#### Screenshoot
 
 Java
 ![java](https://github.com/raihantaufiq/LATIHAN2DPBO2022/blob/main/latihan2%20Java.png?raw=true)
